@@ -6,4 +6,4 @@ geeksforgeeks: https://www.geeksforgeeks.org/python-data-structures/?ref=header_
 
 w3schools: https://www.w3schools.com/python/python_datatypes.asp
 
-      DSA: https://www.w3schools.com/dsa/
+DSA: https://www.w3schools.com/dsa/
