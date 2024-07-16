@@ -1,2 +1,6 @@
-# Intro-to-Data-Structures-in-Python---2024-Data-Science-AI-Symposium
-Introduction to Data Structures in Python
+### Introduction to Data Structures in Python
+
+Tutorials:
+geeksforgeeks: https://www.geeksforgeeks.org/python-data-structures/?ref=header_search
+w3schools: https://www.w3schools.com/python/python_datatypes.asp
+      DSA: https://www.w3schools.com/dsa/
