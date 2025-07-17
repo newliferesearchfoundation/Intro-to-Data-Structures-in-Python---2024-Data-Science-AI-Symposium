@@ -1,9 +1,13 @@
 ### Introduction to Data Structures in Python
 
-Tutorials:
+**Instructors:** Joseph Luper Tsenum and Solomon Etiyeme Promise
 
-geeksforgeeks: https://www.geeksforgeeks.org/python-data-structures/?ref=header_search
+Teaching Assistants (TAs): Emmanuel Ocholi Benjamin, Terkuma Saaondo, Mfeuter Joseph Tachia
 
-w3schools: https://www.w3schools.com/python/python_datatypes.asp
+**Tutorials:**
 
-DSA: https://www.w3schools.com/dsa/
+**geeksforgeeks:** https://www.geeksforgeeks.org/python-data-structures/?ref=header_search
+
+**w3schools:** https://www.w3schools.com/python/python_datatypes.asp
+
+**DSA:** https://www.w3schools.com/dsa/
