@@ -2,7 +2,7 @@
 
 **Instructors:** Joseph Luper Tsenum and Solomon Etiyeme Promise
 
-Teaching Assistants (TAs): Emmanuel Ocholi Benjamin, Terkuma Saaondo, Mfeuter Joseph Tachia
+Teaching Assistants (TAs): Emmanuel Ocholi Benjamin, Terkuma Saaondo and Mfeuter Joseph Tachia
 
 **Tutorials:**
 
